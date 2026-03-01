@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [minhajexample.com](minhajexample.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-five-theta-95.vercel.app](https://portfolio-five-theta-95.vercel.app)
 
 - 💬 Ask me about **MERN**
 
