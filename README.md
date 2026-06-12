@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [minhajps.vercel.app](minhajps.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://minhajps.vercel.app/)
 
 - 💬 Ask me about **React, SQL, Express**
 
